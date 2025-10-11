@@ -12,6 +12,6 @@
 
 ###
 
-<p align="center">i'm a double smoked bacon. <br>i'm learning some coding languages</p>
+<p align="center">i'm a double smoked bacon. <br>i post some codes that you may or may not use</p>
 
 ###
