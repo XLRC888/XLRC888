@@ -13,6 +13,6 @@
 ###
 
 <p align="center">i'm a double-smoked bacon. <br>i post some codes that you may or may not use</p>
-<p alifn="center">also i use ai in some of my projects (i usually point out whether i used it or not in their descriptions)</p>
+<p align="center">also i use ai in some of my projects (i usually point out whether i used it or not in their descriptions)</p>
 
 ###
