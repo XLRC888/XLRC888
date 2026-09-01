@@ -1,0 +1,19 @@
+<div align="center">
+  <img height="350" src="https://i.imgur.com/1bHKaps.jpeg"/>
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="center">WHO AM I???</h3>
+
+###
+
+<p align="center"> i'm a hobbyist double-smoked bacon. <br> </p>
+<p align="center"> always trying out something new, really experimental stuff </p>
+
+  
+###
